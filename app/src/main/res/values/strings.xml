@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LightApp</string>
+    <string name="btn_settings_main">settings</string>
+    <string name="btn_module1_modules">Module1</string>
+    <string name="btn_module2_modules">Module2</string>
+    <string name="btn_module3_modules">Module3</string>
+    <string name="edit_text_name_fragment">Name</string>
+    <string name="edit_text_ip_fragment_on">IPON</string>
+    <string name="edit_text_ip_fragment_off">IPOFF</string>
+
+    <string name="btn_change_fragment">Save changes</string>
+
+
+</resources>
